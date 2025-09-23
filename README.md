@@ -18,6 +18,50 @@
 <h3 align="left">Herramientas y habilidades:</h3>
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+---
+
+## 🚀 Habilidades adquiridas
+
+### 🔢 Análisis y manipulación de datos
+- Limpieza, transformación y exploración con **Python (Pandas, NumPy)**
+- Visualización efectiva con **Matplotlib, Seaborn, Plotly**
+- Automatización de flujos con **Excel avanzado, macros y VBA**
+
+### 🧠 Machine Learning
+- Modelos supervisados y no supervisados: regresión, clasificación, clustering
+- Evaluación con métricas como precisión, recall, F1-score
+- Implementación con **Scikit-learn**, **XGBoost**
+
+### 🗃️ Bases de datos y SQL
+- Diseño de esquemas, consultas optimizadas, manejo de grandes volúmenes
+- Integración con **SQLite**, **SQL Server**
+
+### 📊 Storytelling y comunicación
+- Documentación técnica con enfoque narrativo
+- Presentaciones orientadas a negocio, salud y tecnología
+- Branding creativo para proyectos en GitHub
+
+---
+
+## 🧬 Aplicaciones en sectores clave
+
+### 🏥 Sector clínico
+- Análisis de datos biomédicos y hospitalarios
+- Modelos predictivos para diagnóstico temprano
+- Visualización de indicadores de salud pública
+
+### 💻 Sector tecnológico
+- Optimización de procesos con automatización y dashboards
+- Análisis de comportamiento de usuarios y productos
+- Soluciones basadas en datos para startups
+
+### 🔬 Ciencia de datos aplicada
+- Proyectos de investigación con enfoque estadístico y computacional
+- Exploración de sentimientos, tendencias y patrones ocultos
+- Integración de datos estruct
+
+
+
 <!--
 **estebanrrp/estebanrrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
