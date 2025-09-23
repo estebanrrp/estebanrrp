@@ -1,6 +1,8 @@
 <h1 align="center"> Hola, soy Esteban!</h1>
 <h3 align="center">Ingeniero Biomédico/Científico de Datos de México.</h3>
 
+<h3 align="center">Profesional en Ingeniería Biomédica con especialización en Ciencia de Datos, experiencia en el área de Biomédica a nivel hospitalario, ventas, biomateriales, análisis de datos. Conocimientos en Python, Matlab y Office. Asertividad, disposición al aprendizaje continuo, adaptabilidad, dinamismo y tolerancia. 
+
 
 - 👯 Busco colaborar en **proyectos que integren ciencia y/o análisis de datos, automatización o diseño visual.**
 
