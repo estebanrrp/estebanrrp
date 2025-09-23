@@ -1,9 +1,6 @@
 <h1 align="center"> I'm Esteban!</h1>
 <h3 align="center">Ingeniero Biomédico/Científico de Datos de México.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanrrp&label=Profile%20views&color=0e75b6&style=flat" alt="estebanrrp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanrrp" alt="estebanrrp" /></a> </p>
 
 - 👯 Busco colaborar en **proyectos que integren ciencia y/o análisis de datos, automatización o diseño visual.**
 
