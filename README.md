@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanrrp" alt="estebanrrp" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Collaborate on projects that integrate data science and/or analysis, automation or visual design.**
+- 👯 Busco colaborar en **proyectos que integren ciencia y/o análisis de datos, automatización o diseño visual.**
 
-- 💬 Ask me about **Videogames, Sci-Fi, Medicine, Fun facts**
+- 💬 Pregúntame sobre **videojuegos, ciencia ficción, medicina, curiosidades**
 
-- 📫 How to reach me **esteban_rrp@hotmail.com**
+- 📫 Cómo contactarme **esteban_rrp@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
