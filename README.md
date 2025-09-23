@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Esteban</h1>
-<h3 align="center">A biomedical engineer/data scientist from México</h3>
+<h1 align="center"> I'm Esteban!</h1>
+<h3 align="center">Ingeniero Biomédico/Científico de Datos de México.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanrrp&label=Profile%20views&color=0e75b6&style=flat" alt="estebanrrp" /> </p>
 
