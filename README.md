@@ -1,38 +1,29 @@
-# 👋 Esteban Ramírez
+<h1 align="center">Hi there, I'm Esteban</h1>
+<h3 align="center">A biomedical engineer/data scientist from México</h3>
 
-Profesional en Ingeniería Biomédica con especialización en Ciencia de Datos, experiencia en el área de Biomédica a nivel hospitalario, ventas, biomateriales, análisis de datos. Conocimientos en Python, Matlab y Office. Enfoque multidisciplinario manteniendo principios de asertividad, disposición al aprendizaje continuo, adaptabilidad, dinamismo y tolerancia.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanrrp&label=Profile%20views&color=0e75b6&style=flat" alt="estebanrrp" /> </p>
 
-## 🛠️ Habilidades Técnicas
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estebanrrp" alt="estebanrrp" /></a> </p>
 
-- **Python**: Automatización de tareas, análisis de datos, visualización con matplotlib/seaborn.
-- **Excel avanzado**: Fórmulas complejas, macros, VBA, automatización de reportes.
-- **SQL (SQLite, SQL Server)**: Diseño de bases de datos, consultas optimizadas, carga masiva de datos.
-- **Soporte técnico**: Diagnóstico y solución de problemas en hardware/software, periféricos y redes.
-- **Comunicación profesional**: Redacción y atención al cliente en español e inglés.
+- 👯 I’m looking to collaborate on **Collaborate on projects that integrate data science and/or analysis, automation or visual design.**
 
-## 📂 Experiencia Destacada
+- 💬 Ask me about **Videogames, Sci-Fi, Medicine, Fun facts**
 
-- **Análisis y automatización**: Desarrollo de scripts en Python y macros en Excel para optimizar procesos.
-- **Soporte técnico**: Atención a usuarios, mantenimiento de equipos, configuración de software, equipo clínico, redes y periféricos.
-- **Mantenimientos preventivos y predictivos** 
+- 📫 How to reach me **esteban_rrp@hotmail.com**
 
-## 🎯 Objetivos Profesionales
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/esteban-ramirez-perez-0804/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteban-ramirez-perez-0804/" height="30" width="40" /></a>
+</p>
 
-- Colaborar en proyectos que integren ciencia y/o análisis de datos, automatización o diseño visual.
-- Aplicar conocimientos técnicos en entornos clínicos, tecnológicos, creativos o administrativos.
-- Contribuir a equipos multidisciplinarios con soluciones eficientes y bien documentadas.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## 🌐 Idiomas
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebanrrp&show_icons=true&locale=en&layout=compact" alt="estebanrrp" /></p>
 
-- Español (nativo)
-- Inglés (avanzado)
-- Francés (intermedio-avanzado)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estebanrrp&show_icons=true&locale=en" alt="estebanrrp" /></p>
 
-## 📫 Contacto
-
-Estoy disponible para colaborar en proyectos técnicos, creativos o administrativos. Puedes contactarme directamente a través de GitHub o por correo.
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estebanrrp&" alt="estebanrrp" /></p>
 
 
 <!--
