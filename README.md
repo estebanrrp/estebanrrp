@@ -1,4 +1,4 @@
-<h1 align="center"> # 👨‍🔬 Esteban Ramírez · Ingeniero Biomédico / Científico de Datos con ADN Creativo </h1>
+<h1 align="center"> # 👨‍🔬 Esteban Ramírez · Ingeniero Biomédico / Científico de Datos </h1>
 <h3 align="center">Profesional en Ingeniería Biomédica con especialización en Ciencia de Datos, experiencia en el área de Biomédica a nivel hospitalario, ventas, biomateriales, análisis de datos. Conocimientos en Python, Matlab y Office. Asertividad, disposición al aprendizaje continuo, adaptabilidad, dinamismo y tolerancia. 
 
 
